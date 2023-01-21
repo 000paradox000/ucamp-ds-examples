@@ -1,5 +1,5 @@
 # Face detection using `Haar cascade` classifier algorithm
-[Back](/)
+[Back](https://github.com/000paradox000/ucamp-ds-examples)
 
 ## Source code
 
