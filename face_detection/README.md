@@ -1,5 +1,9 @@
-# Face detection using `Haar cascade` classifier algorithm.
+# Face detection using `Haar cascade` classifier algorithm
 [Back](../README.md)
+
+## Source code
+
+- [Python](src/python/README.md)
 
 ## Links
 
