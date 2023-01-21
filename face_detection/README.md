@@ -3,7 +3,7 @@
 
 ## Source code
 
-- [Python](src/python/README.md)
+- [Python](src/python)
 
 ## Links
 
