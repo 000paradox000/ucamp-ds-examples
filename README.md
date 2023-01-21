@@ -1,2 +1,3 @@
-# ucamp-ds-examples
-Examples for UCAMP Data Science
+# Examples for UCAMP Data Science Course
+
+- [Face detection using `Haar cascade` classifier algorithm](face_detection/README.md)
