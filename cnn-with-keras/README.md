@@ -1,3 +1,6 @@
 # Keras for Beginners: Implementing a Convolutional Neural Network
 
-https://victorzhou.com/blog/keras-cnn-tutorial/
+
+## Links
+
+- [Keras for Beginners: Implementing a Convolutional Neural Network](https://victorzhou.com/blog/keras-cnn-tutorial/)
