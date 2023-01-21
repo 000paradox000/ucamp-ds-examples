@@ -1,5 +1,5 @@
 # Face detection using `Haar cascade` classifier algorithm with Python
-[Back](../../README.md)
+[Back](../..)
 
 ## Quickstart
 
