@@ -1,5 +1,5 @@
 # Face detection using `Haar cascade` classifier algorithm
-[Back](/)
+[Back](../)
 
 ## Source code
 
