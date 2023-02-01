@@ -4,4 +4,4 @@
 - [CNN Sample CIFAR-10](cnn-cifar-10)
 - [Register New Users](register_new_users)
 - [Add interactivity to plots](add_interactivity)
-- [Sample Data](sample-data)
+- [Sample Data](sample_data)
