@@ -5,3 +5,11 @@
 
 - [Kaggle URL](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv)
 
+## Marketing Department Dataset
+
+Columns
+- CustomerID
+- Genre
+- Age
+- Annual Income (k$)
+- Spending Score (1-100)
