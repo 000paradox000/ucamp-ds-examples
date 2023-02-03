@@ -13,3 +13,13 @@ Columns
 - Age
 - Annual Income (k$)
 - Spending Score (1-100)
+
+
+## Customers
+
+- Salario	
+- Credito_tipo_1	
+- Credito_tipo_2	
+- Limite_TC	
+- Tiempo_cliente	
+- Producto_ofrecido
