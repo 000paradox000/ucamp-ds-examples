@@ -6,3 +6,4 @@
 - [Add interactivity to plots](add_interactivity)
 - [Sample Data](sample_data)
 - [VIF Variance Inflation Factor](vif)
+- [Summaries](summaries)
