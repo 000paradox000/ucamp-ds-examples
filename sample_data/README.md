@@ -23,3 +23,11 @@ Columns
 - Limite_TC	
 - Tiempo_cliente	
 - Producto_ofrecido
+
+## Información
+
+- Nombre
+- Edad
+- Estatura
+- ¿Beca?
+- Calificación
